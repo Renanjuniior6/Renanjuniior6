@@ -1,6 +1,6 @@
 <h1>Olá! :smiley: </h1>
 
-<h2> Sou Renan Júnior programador front-end junior e estou constantemente aprendendo novas tecnologias e conhecimentos na programação :computer: :chart_with_upwards_trend: </h2>
+<h2> Sou Renan Júnior, programador front-end junior e estou constantemente aprendendo novas tecnologias e conhecimentos na programação :computer: :chart_with_upwards_trend: </h2>
 
 <p> <b>Dá uma olhada nos meus projetos também :wink:<b> </p>
 
