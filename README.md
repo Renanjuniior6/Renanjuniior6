@@ -1,6 +1,6 @@
 <h1>Olá! :smiley: </h1>
 
-<h2>Me chamo Renan Júnior, tenho 18 anos, sou um programador fullstack e estou constantemente aprendendo novas tecnologias e conhecimentos na programação! :computer: :chart_with_upwards_trend: </h2>
+<h2>Me chamo Renan Júnior, atualmente atuando como um programador fullstack e estou constantemente aprendendo novas tecnologias e conhecimentos na programação! :computer: :chart_with_upwards_trend: </h2>
 
 <p> <b>Dá uma olhada nos meus projetos também :wink:<b> </p>
 
