@@ -51,9 +51,6 @@
  <a href="https://www.instagram.com/renan_jrrrr/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
     <br>
     <br>
- <a href="https://www.facebook.com/profile.php?id=100011666990202" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-    <br>
-    <br>
    <a href="https://www.linkedin.com/in/renan-j%C3%BAnior/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> 
   
 <h3> Meios de contato: </h3>
