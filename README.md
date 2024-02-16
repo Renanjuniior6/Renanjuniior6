@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=130&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Renan+Junior;Desenvolvedor+Fullstack;Sou+do+Rio+Janeiro+,RJ)](https://git.io/typing-svg)
+
+
 <h1>Olá! :smiley: </h1>
 
 <h2>Me chamo Renan Júnior, atualmente atuando como programador fullstack e estou constantemente aprendendo novas tecnologias e conhecimentos na programação! :computer: :chart_with_upwards_trend: </h2>
