@@ -6,78 +6,53 @@
 
 <hr>
 
-<h3>Aqui estão as tecnologias usadas nos meus projetos atualmente: </h3>
+<h3>-Minhas principais tecnologias</h3>
+<div style="diplay: inline_block">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+</div>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<br>
-<br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<br>
-<br>
+##
+
+<h3>-Mais algumas ferramentas e libraries que utilizo </h3>
+
+<div>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<br>
-<br>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br>
-<br>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
-<br>
-<br>
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
+</div>
 
+##
   
-<h3> Minhas redes sociais: <h3>
+<h3> -Minhas redes sociais <h3>
+  
+  <div style="display: inline_block">
  <a href="https://www.instagram.com/renan_jrrrr/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-    <br>
-    <br>
-   <a href="https://www.linkedin.com/in/renan-j%C3%BAnior/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> 
-  
-<h3> Meios de contato: </h3>
-  
+ <a href="https://www.linkedin.com/in/renan-j%C3%BAnior/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+  target="_blank"/> </a> 
+  </div>
+
+  ##
+   
+<h3> -Meios de contato </h3>
+  <div>
  <a href="https://wa.me/5521965036374" target="_blank" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> 
-  
-
-  
  <a href="mailto:renanjrr679@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+ </div>
+ 
+##
 
-  <hr>
-  
-  [![RenanJr GitHub stats](https://github-readme-stats.vercel.app/api?username=Renanjuniior6)](https://github.com/anuraghazra/github-readme-stats)
-  <br> 
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanjuniior6)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
+<div>
+ <img height="210" src='https://github-readme-stats.vercel.app/api?username=Renanjuniior6&theme=dracula'/> 
+ <img height="210" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Renanjuniior6&theme=dracula'/>
+</div>
