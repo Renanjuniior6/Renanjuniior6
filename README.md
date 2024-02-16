@@ -28,7 +28,16 @@
 
 ##
 
-<h3>-Mais algumas ferramentas e libraries que utilizo </h3>
+<h3>-Aplicativos e ferramentas</h3>
+<div>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+
+##
+
+<h3>-Algumas libs que utilizo </h3>
 
 <div>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
