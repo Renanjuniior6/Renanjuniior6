@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Renan+Junior;Desenvolvedor+Fullstack;Sou+do+Rio+Janeiro,+RJ)](https://git.io/typing-svg)
 
 
-<h1>Olá! :smiley: </h1>
+# Olá! :smiley:
 
-<h2>Me chamo Renan Júnior, atualmente atuando como programador fullstack e estou constantemente aprendendo novas tecnologias e conhecimentos na programação! :computer: :chart_with_upwards_trend: </h2>
+## Me chamo Renan Júnior, atualmente atuando como programador fullstack estou constantemente aprendendo novas tecnologias e conhecimentos na programação criando projetos desafiadores! :computer: 🚀
 
-<p> <b>Dá uma olhada nos meus projetos também :wink:<b> </p>
+<p> <b>Dê uma olhada nos meus projetos também :wink:<b> </p>
 
 <hr>
 
-<h3>-Minhas principais tecnologias</h3>
+- ### Minhas principais tecnologias
 <div style="diplay: inline_block">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -28,7 +28,7 @@
 
 ##
 
-<h3>-Aplicativos e ferramentas</h3>
+- ### Aplicativos e ferramentas
 <div>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -37,7 +37,7 @@
 
 ##
 
-<h3>-Algumas libs que utilizo </h3>
+- ### Algumas libs que utilizo
 
 <div>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
@@ -48,7 +48,7 @@
 
 ##
   
-<h3> -Minhas redes sociais <h3>
+- ### Minhas redes sociais
   
   <div style="display: inline_block">
  <a href="https://www.instagram.com/renan_jrrrr/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
@@ -58,7 +58,7 @@
 
   ##
    
-<h3> -Meios de contato </h3>
+- ### Meios de contato
   <div>
  <a href="https://wa.me/5521965036374" target="_blank" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> 
  <a href="mailto:renanjrr679@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
