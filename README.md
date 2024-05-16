@@ -5,7 +5,7 @@
 
 # Olá! :smiley:
 
-## Me chamo Renan Júnior, atualmente atuando como programador fullstack estou constantemente aprendendo novas tecnologias e conhecimentos na programação criando projetos desafiadores! :computer: 🚀
+### Me chamo Renan Júnior, sou um programador fullstack | front end, estou constantemente aprendendo novas tecnologias e conhecimentos na programação criando projetos desafiadores para melhorar minhas habilidades como dev! :computer: 🚀
 
 <p> <b>Dê uma olhada nos meus projetos também :wink:<b> </p>
 
