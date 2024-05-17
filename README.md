@@ -68,4 +68,5 @@
 
 <div>
  <img height="210" src='https://github-readme-stats.vercel.app/api?username=Renanjuniior6&theme=dracula'/>
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanjuniior6&layout=compact&langs_count=6&theme=dracula"/>
 </div>
