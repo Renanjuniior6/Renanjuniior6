@@ -71,3 +71,10 @@
  <img height="190" src='https://github-readme-stats.vercel.app/api?username=Renanjuniior6&theme=dracula'/>
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanjuniior6&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+
+## 
+
+<div align="center">
+<img width="75%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickps2015/rickps2015/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+<img width="20%">
+</div>
