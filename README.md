@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Renan+Junior;Desenvolvedor+Fullstack;Sou+do+Rio+Janeiro,+RJ)](https://git.io/typing-svg)
 
 
-# Olá!
-
 <p align="center">Me chamo Renan Júnior, sou um programador fullstack | front end | back end, estou constantemente aprendendo novas tecnologias e conhecimentos na programação criando projetos desafiadores para melhorar minhas habilidades como dev! :computer: 🚀</p>
 <br>
 
@@ -71,7 +69,7 @@
 
 <div>
    <img width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanJuniior6&layout=compact&langs_count=6&theme=aura"/>
-   <img width="50%" height="190" src="https://github-readme-stats.vercel.app/api?username=Renanjuniior6&show_icons=true&theme=aura">
+   <img height="190" src="https://github-readme-stats.vercel.app/api?username=Renanjuniior6&show_icons=true&theme=aura">
 </div>
 
 ##
