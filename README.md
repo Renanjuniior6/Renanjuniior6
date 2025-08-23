@@ -67,9 +67,9 @@
 
 ##
 
-<div>
-   <img width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanJuniior6&layout=compact&langs_count=6&theme=aura"/>
-   <img height="190" src="https://github-readme-stats.vercel.app/api?username=Renanjuniior6&show_icons=true&theme=aura">
+<div style="display: flex;">
+   <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanJuniior6&layout=compact&langs_count=6&theme=aura"/>
+   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Renanjuniior6&show_icons=true&theme=aura">
 </div>
 
 ##
