@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=blue"/>
   <img src="https://img.shields.io/badge/next.js-323330?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/node-323330?style=for-the-badge&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/express.js-323330?style=for-the-badge&logo=express&logoColor=green"/>
   <img src="https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/mongodb-323330?style=for-the-badge&logo=mongodb&logoColor=green"/>
   <img src="https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=orange"/>
@@ -38,7 +39,6 @@
 <h2>📗 Algumas libs que utilizo</h2>
 <div>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
   <img src="https://img.shields.io/badge/bootstrap-9561fb?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
